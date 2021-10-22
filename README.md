@@ -1,6 +1,5 @@
 # Python Graphic Chess Application
-![Alt text]
-(https://github.com/michaElOs769/CHESS/blob/main/BOARD.png)
+![Alt text](BOARD.png)
 
 Implemented features:
 - graphic representation of the board (using Graphics.py module)
