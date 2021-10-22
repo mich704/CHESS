@@ -7,7 +7,7 @@ This project is chess engine. Two users can play chess game.
 ### Technologies
 Project is created with:
 * Python 3.9.6
-* Graphics.py moule
+* Graphics.py module
 
 #### Implemented features:
 - game controlled by mouse
