@@ -24,4 +24,7 @@ Project is created with:
 
 ![Alt text](images/CHECKMATE.png)
 
+## Setup
+Download project locally, and then run '''grafa.exe''' file. Now you can start playing!
+
 
