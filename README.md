@@ -13,6 +13,8 @@ Implemented features:
 - starting new game
 - action sounds
 - popping window at the end of the game:
+
+
 ![Alt text](images/CHECKMATE.png)
 
 
