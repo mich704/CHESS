@@ -1,8 +1,15 @@
 # Python Graphic Chess Application
 ![Alt text](images/BOARD.png)
 
-## Implemented features:
-- graphic representation of the board (using Graphics.py module)
+## General info
+This project is chess engine. Two users can play chess game.
+
+### Technologies
+Project is created with:
+* Python 3.9.6
+* Graphics.py moule
+
+#### Implemented features:
 - game controlled by mouse
 - standard chess moves (moving, taking, castling, en passant)
 - displaying all possible moves
