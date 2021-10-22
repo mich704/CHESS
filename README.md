@@ -1,5 +1,4 @@
 # Python Graphic Chess Application
-<img src ="images/BOARD.png" width = "800" height = "620">
 ![Alt text](images/BOARD.png)
 
 Implemented features:
@@ -13,5 +12,7 @@ Implemented features:
 - restoring previous states of the game (game will be continued from chosen previous state)
 - starting new game
 - action sounds
+- popping window at the end of the game:
+![Alt text](images/CHECKMATE.png)
 
 
