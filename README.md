@@ -1,7 +1,7 @@
 # Python Graphic Chess Application
 ![Alt text](images/BOARD.png)
 
-Implemented features:
+##Implemented features:
 - graphic representation of the board (using Graphics.py module)
 - game controlled by mouse
 - standard chess moves (moving, taking, castling, en passant)
