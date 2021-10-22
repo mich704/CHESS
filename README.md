@@ -1,5 +1,5 @@
 # Python Graphic Chess Application
-![image]
+![Alt text]
 (https://github.com/michaElOs769/CHESS/blob/main/BOARD.png)
 
 Implemented features:
