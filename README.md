@@ -1,4 +1,5 @@
 # Python Graphic Chess Application
+![image] (https://github.com/michaElOs769/CHESS/blob/main/BOARD.png)
 
 Implemented features:
 - graphic representation of the board (using Graphics.py module)
@@ -11,3 +12,5 @@ Implemented features:
 - restoring previous states of the game (game will be continued from chosen previous state)
 - starting new game
 - action sounds
+
+
