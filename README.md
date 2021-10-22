@@ -1,5 +1,5 @@
 # Python Graphic Chess Application
-<img src ="images/BOARD.png" width = "800" height = "800">
+<img src ="images/BOARD.png" width = "800" height = "620">
 ![Alt text](images/BOARD.png)
 
 Implemented features:
