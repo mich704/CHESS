@@ -4,6 +4,9 @@ class Move(object):
     takes_color = color_rgb(225, 78, 102)
 
     """
+        Description:
+            Class used to perform specific chess moves
+            
         Avalible types are:
             None (standard move)
             'takes'
@@ -39,9 +42,6 @@ class Move(object):
             raise ValueError("Unknow move type")
 
         self._type = type
-
-
-        
 
     def draw_move(self):
         self.img.draw(self.win)

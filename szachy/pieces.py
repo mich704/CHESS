@@ -1,7 +1,7 @@
 from graphics import *
 from math import log
 from time import sleep
-from Move import Move
+from move import Move
 
 
 class Piece():
@@ -10,7 +10,7 @@ class Piece():
             abstract class, whre from every piece class inherits
 
         Args:
-            pormotion_bg_color (str): color specifier string for backgroud of poromition window
+            promotion_bg_color (str): color specifier string for backgroud of poromition window
 
             color (str): color of the piece 'black' or 'white'
             img_url (str): path to piece png file
@@ -20,7 +20,7 @@ class Piece():
 
     """
 
-    pormotion_bg_color = color_rgb(244, 181, 252)
+    promotion_bg_color = color_rgb(244, 181, 252)
 
     def __init__(self, color, y, x, win):
         self.color = color
@@ -29,7 +29,6 @@ class Piece():
         self.x = x
         self.img = None
         self.win = win
-
 
     @property
     def color(self):
@@ -116,8 +115,6 @@ class Piece():
         """
         return [move for move in moves if (move.type == "castle" or self.king_safe(move.y, move.x, board))]
         
-
-
     def king_safe(self, m_y, m_x, board):
         """
         Description:
@@ -415,7 +412,7 @@ class Pawn(Piece):
         bg_rectangle = Rectangle(
             Point(x_mid_px - size_x/2, y_mid_px - size_y/2),
             Point(x_mid_px + size_x/2, y_mid_px + size_y/2))
-        bg_rectangle.setFill(Piece.pormotion_bg_color)
+        bg_rectangle.setFill(Piece.promotion_bg_color)
         bg_rectangle.setWidth(3)
         bg_rectangle.draw(win)
         
