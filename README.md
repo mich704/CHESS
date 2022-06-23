@@ -1,9 +1,6 @@
 # Python Graphic Chess Application
-<<<<<<< HEAD
+
 ![Alt text](images\BOARD.png)
-=======
-![Alt text](images/BOARD.png)
->>>>>>> 0e7b895ccc4cc43d24aea26e75efe9ddb3f7f8be
 
 ## General info
 This project is chess engine. Two users can play chess game.
