@@ -3,7 +3,7 @@
 ![Alt text](images/BOARD.png)
 
 ## General info
-This project is chess engine. Two users can play chess game.
+Project implement chess logic, including all different types of possible moves. Two users can play chess on desktop. 
 
 ## Technologies
 Project is created with:
@@ -26,6 +26,6 @@ Project is created with:
 ![Alt text](images/CHECKMATE.png)
 
 ## Setup
-Download project locally, and then run ```grafa.exe``` file. Now you can start playing!
+Download project locally, and then run ```chess.exe```. Now you can start playing (remember, whites start :-) ) !
 
 
